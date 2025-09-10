@@ -1,345 +1,449 @@
 emojis:
   - name: a
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/a.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/a.png
   - name: aa
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/aa.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/aa.png
   - name: alarm
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/alarm.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/alarm.gif
   - name: atfinnfly
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/atfinnfly.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/atfinnfly.gif
   - name: b
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/b.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/b.png
   - name: baby-yoda-soup
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/baby-yoda-soup.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/baby-yoda-soup.gif
   - name: backwards_parrot
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/backwards_parrot.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/backwards_parrot.gif
   - name: bb
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/bb.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/bb.png
   - name: bear
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/bear.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/bear.png
   - name: bedge
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/bedge.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/bedge.png
   - name: bigcat
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/bigcat.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/bigcat.gif
   - name: bmodance
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/bmodance.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/bmodance.gif
   - name: bongocat
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/bongocat.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/bongocat.gif
   - name: bongocat_code
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/bongocat_code.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/bongocat_code.gif
   - name: burn_it
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/burn_it.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/burn_it.gif
   - name: c
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/c.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/c.png
   - name: cat_dance
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/cat_dance.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/cat_dance.gif
   - name: cat_myaa
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/cat_myaa.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/cat_myaa.gif
   - name: cat_nope
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/cat_nope.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/cat_nope.gif
   - name: cat_smile
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/cat_smile.jpeg
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/cat_smile.jpeg
   - name: cat_typing
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/cat_typing.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/cat_typing.gif
   - name: cat_yes
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/cat_yes.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/cat_yes.gif
   - name: catjam
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/catjam.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/catjam.gif
   - name: catjam_fast
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/catjam_fast.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/catjam_fast.gif
   - name: cavemanspongebob
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/cavemanspongebob.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/cavemanspongebob.gif
   - name: cc
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/cc.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/cc.png
   - name: chatting
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/chatting.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/chatting.gif
   - name: clapping_corgi
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/clapping_corgi.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/clapping_corgi.gif
   - name: cryingcat
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/cryingcat.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/cryingcat.png
   - name: cute_hopeless_pepe
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/cute_hopeless_pepe.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/cute_hopeless_pepe.png
   - name: cutedog
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/cutedog.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/cutedog.gif
   - name: d
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/d.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/d.png
   - name: da
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/da.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/da.png
   - name: dd
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/dd.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/dd.png
   - name: dog_eating
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/dog_eating.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/dog_eating.gif
   - name: doge
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/doge.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/doge.png
   - name: doge_dance
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/doge_dance.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/doge_dance.gif
   - name: dogeheart
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/dogeheart.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/dogeheart.png
   - name: drakeno
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/drakeno.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/drakeno.png
   - name: durka
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/durka.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/durka.png
   - name: dushno
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/dushno.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/dushno.png
   - name: e
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/e.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/e.png
   - name: ee
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/ee.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/ee.png
   - name: evil_parrot
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/evil_parrot.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/evil_parrot.gif
   - name: f
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/f.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/f.png
   - name: facepalm
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/facepalm.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/facepalm.png
   - name: fake
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/fake.gif
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/fake.gif
   - name: ff
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/ff.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/ff.png
   - name: flying_money_parrot
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/flying_money_parrot.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/flying_money_parrot.gif
   - name: fox
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/fox.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/fox.png
   - name: froge_bonk
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/froge_bonk.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/froge_bonk.gif
   - name: fry
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/fry.jpeg
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/fry.jpeg
   - name: g
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/g.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/g.png
   - name: gg
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/gg.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/gg.png
   - name: h
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/h.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/h.png
   - name: hackermans
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/hackermans.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/hackermans.gif
   - name: haha
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/haha.jpeg
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/haha.jpeg
   - name: happy
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/happy.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/happy.gif
   - name: harold
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/harold.jpeg
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/harold.jpeg
   - name: hearth21
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/hearth21.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/hearth21.gif
   - name: hellokittywave
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/hellokittywave.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/hellokittywave.gif
   - name: hh
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/hh.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/hh.png
   - name: hide
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/hide.gif
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/hide.gif
   - name: homey
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/homey.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/homey.gif
   - name: i
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/i.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/i.png
   - name: ii
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/ii.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/ii.png
   - name: j
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/j.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/j.png
   - name: jammies
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/jammies.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/jammies.gif
   - name: jj
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/jj.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/jj.png
   - name: k
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/k.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/k.png
   - name: kek
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/kek.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/kek.png
   - name: kekewait
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/kekewait.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/kekewait.png
   - name: kekw
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/kekw.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/kekw.png
   - name: kitten
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/kitten.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/kitten.gif
   - name: kk
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/kk.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/kk.png
   - name: kostyl
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/kostyl.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/kostyl.png
   - name: l
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/l.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/l.png
   - name: library
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/library.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/library.gif
   - name: linkedin
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/linkedin.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/linkedin.png
   - name: ll
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/ll.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/ll.png
   - name: lockscreen
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/lockscreen.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/lockscreen.png
   - name: lol
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/lol.gif
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/lol.gif
   - name: lovemeow
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/lovemeow.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/lovemeow.gif
   - name: lurking
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/lurking.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/lurking.gif
   - name: lynx
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/lynx.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/lynx.png
   - name: m
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/m.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/m.png
   - name: mike
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/mike.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/mike.png
   - name: mm
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/mm.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/mm.png
   - name: modcheck
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/modcheck.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/modcheck.gif
   - name: monkajesus
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/monkajesus.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/monkajesus.png
   - name: monkax
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/monkax.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/monkax.gif
   - name: monkey_look
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/monkey_look.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/monkey_look.gif
   - name: monkeyshock
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/monkeyshock.gif
-  - name: n
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/n.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/monkeyshock.gif
+  - name: 'n'
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/n.png
   - name: net
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/net.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/net.png
   - name: ng_parrot
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/ng_parrot.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/ng_parrot.gif
   - name: nn
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/nn.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/nn.png
   - name: none
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/none.jpeg
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/none.jpeg
   - name: nyancat
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/nyancat.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/nyancat.gif
   - name: o
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/o.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/o.png
   - name: okaygebusiness
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/okaygebusiness.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/okaygebusiness.png
   - name: okmen
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/okmen.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/okmen.png
   - name: oo
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/oo.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/oo.png
   - name: p
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/p.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/p.png
   - name: p2p
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/p2p.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/p2p.png
   - name: parrot
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/parrot.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/parrot.gif
   - name: partyparrot
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/partyparrot.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/partyparrot.gif
   - name: paw
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/paw.gif
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/paw.gif
   - name: peepo_arrive
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/peepo_arrive.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/peepo_arrive.gif
   - name: peepo_shy
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/peepo_shy.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/peepo_shy.gif
   - name: peepoarrive
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/peepoarrive.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/peepoarrive.gif
   - name: peepoblanket
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/peepoblanket.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/peepoblanket.png
   - name: peepoconfused
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/peepoconfused.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/peepoconfused.gif
   - name: peeporiot
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/peeporiot.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/peeporiot.gif
   - name: peeporot
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/peeporot.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/peeporot.gif
   - name: peeporun
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/peeporun.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/peeporun.gif
   - name: peepotoxic
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/peepotoxic.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/peepotoxic.gif
   - name: peer2peer
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/peer2peer.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/peer2peer.png
   - name: pepe-big-eyes
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pepe-big-eyes.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pepe-big-eyes.gif
   - name: pepe_ban
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pepe_ban.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pepe_ban.gif
   - name: pepe_clap
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pepe_clap.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pepe_clap.gif
   - name: pepe_clown_hype
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pepe_clown_hype.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pepe_clown_hype.gif
   - name: pepe_crush
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pepe_crush.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pepe_crush.gif
   - name: pepe_furious
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pepe_furious.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pepe_furious.gif
   - name: pepechill
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pepechill.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pepechill.png
   - name: pepegiggle
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pepegiggle.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pepegiggle.gif
   - name: peperain
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/peperain.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/peperain.gif
   - name: pepesad
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pepesad.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pepesad.png
   - name: pepewoo
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pepewoo.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pepewoo.png
   - name: pheart
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pheart.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pheart.png
   - name: pika_shoked_2
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pika_shoked_2.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pika_shoked_2.gif
   - name: pir
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pir.jpeg
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pir.jpeg
   - name: pogslide
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pogslide.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pogslide.gif
   - name: pp
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pp.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pp.png
   - name: prayge
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/prayge.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/prayge.gif
   - name: pressf
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/pressf.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/pressf.png
   - name: q
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/q.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/q.png
   - name: qq
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/qq.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/qq.png
   - name: r
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/r.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/r.png
   - name: rainbowpls
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/rainbowpls.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/rainbowpls.gif
   - name: ratjam
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/ratjam.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/ratjam.gif
   - name: rickroll
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/rickroll.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/rickroll.gif
   - name: rr
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/rr.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/rr.png
   - name: s
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/s.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/s.png
   - name: shiza
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/shiza.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/shiza.gif
   - name: ss
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/ss.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/ss.png
   - name: stonks
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/stonks.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/stonks.png
   - name: sussy
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/sussy.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/sussy.gif
   - name: swole_doge
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/swole_doge.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/swole_doge.png
   - name: t
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/t.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/t.png
   - name: think_about_it
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/think_about_it.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/think_about_it.png
   - name: thinking_homer
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/thinking_homer.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/thinking_homer.gif
   - name: thisisfine
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/thisisfine.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/thisisfine.gif
   - name: tired_corgi
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/tired_corgi.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/tired_corgi.gif
   - name: toxic_sign
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/toxic_sign.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/toxic_sign.gif
   - name: tt
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/tt.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/tt.png
   - name: u
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/u.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/u.png
   - name: ultra_fast_parrot
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/ultra_fast_parrot.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/ultra_fast_parrot.gif
   - name: uu
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/uu.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/uu.png
   - name: uuuuu
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/uuuuu.png
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/uuuuu.png
   - name: v
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/v.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/v.png
   - name: vv
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/vv.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/vv.png
   - name: w
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/w.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/w.png
   - name: what
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/what.jpeg
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/what.jpeg
   - name: where
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/where.gif
+    src: >-
+      https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/where.gif
   - name: ww
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/ww.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/ww.png
   - name: xx
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/xx.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/xx.png
   - name: xxx
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/xxx.png
-  - name: y
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/y.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/xxx.png
+  - name: 'y'
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/y.png
   - name: yy
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/yy.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/yy.png
   - name: z
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/z.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/z.png
   - name: zz
-    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/zz.png
+    src: https://raw.githubusercontent.com/Programmerfd54/emoji/main/emoji/zz.png
